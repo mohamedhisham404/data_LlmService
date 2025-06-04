@@ -1,10 +1,8 @@
 ## Description
 
 It is an LLM service that answer your questions about data (he graps the data by its own ) just give him the prompt about the data <br>
-It is inegrated with my other app clone it and run  
-```bash
-$ https://github.com/mohamedhisham404/get_data_server
-```
+It is inegrated with my other app clone it and run <br> 
+https://github.com/mohamedhisham404/get_data_server
 
 ## Project clone
 ```bash
